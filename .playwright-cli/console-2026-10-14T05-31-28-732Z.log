@@ -1,0 +1,4 @@
+[     630ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://awesomeqa.com/ui/index.php?route=account/register:0
+[    1478ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://awesomeqa.com/favicon.ico:0
+[    5511ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://awesomeqa.com/ui/index.php?route=account/register:0
+[    5511ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ https://awesomeqa.com/ui/index.php?route=account/register:0

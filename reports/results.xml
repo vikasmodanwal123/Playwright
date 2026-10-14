@@ -1,0 +1,90 @@
+<testsuites id="" name="" tests="12" failures="0" skipped="0" errors="0" time="81.40931400000001">
+<testsuite name="web\add-to-cart.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.458" errors="0">
+<testcase name="Add product to cart test @master @sanity @regression @web" classname="web\add-to-cart.spec.ts" time="4.458">
+<system-out>
+<![CDATA[✅ Product added to the cart successfully!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="web\end-to-end-shopping.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="7.85" errors="0">
+<testcase name="End-to-end shopping flow test @master @regression @end-to-end @web" classname="web\end-to-end-shopping.spec.ts" time="7.85">
+<system-out>
+<![CDATA[✅ End-to-end shopping flow completed successfully!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="web\invalid-login.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="18.223" errors="0">
+<testcase name="Invalid login test @master @regression @web" classname="web\invalid-login.spec.ts" time="18.223">
+<system-out>
+<![CDATA[✅ Invalid login rejected as expected!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="web\login-data-driven.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="5" failures="0" skipped="0" time="91.98" errors="0">
+<testcase name="Login data driven #1: Valid login (success) @master @regression @datadriven @web" classname="web\login-data-driven.spec.ts" time="18.892">
+<system-out>
+<![CDATA[✅ Valid login (success) verified!
+]]>
+</system-out>
+</testcase>
+<testcase name="Login data driven #2: Invalid login (failure) @master @regression @datadriven @web" classname="web\login-data-driven.spec.ts" time="18.501">
+<system-out>
+<![CDATA[✅ Invalid login (failure) verified!
+]]>
+</system-out>
+</testcase>
+<testcase name="Login data driven #3: Invalid login (failure) @master @regression @datadriven @web" classname="web\login-data-driven.spec.ts" time="18.047">
+<system-out>
+<![CDATA[✅ Invalid login (failure) verified!
+]]>
+</system-out>
+</testcase>
+<testcase name="Login data driven #4: Invalid login (failure) @master @regression @datadriven @web" classname="web\login-data-driven.spec.ts" time="17.902">
+<system-out>
+<![CDATA[✅ Invalid login (failure) verified!
+]]>
+</system-out>
+</testcase>
+<testcase name="Login data driven #5: Invalid login (failure) @master @regression @datadriven @web" classname="web\login-data-driven.spec.ts" time="18.638">
+<system-out>
+<![CDATA[✅ Invalid login (failure) verified!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="web\logout.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.327" errors="0">
+<testcase name="Logout test @master @sanity @regression @web" classname="web\logout.spec.ts" time="6.327">
+<system-out>
+<![CDATA[✅ Logout completed successfully!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="web\product-search.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="2.611" errors="0">
+<testcase name="Product search test @master @sanity @regression @web" classname="web\product-search.spec.ts" time="2.611">
+<system-out>
+<![CDATA[✅ Product search completed successfully!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="web\user-registration.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="4.027" errors="0">
+<testcase name="User registration test @master @sanity @regression @web" classname="web\user-registration.spec.ts" time="4.027">
+<system-out>
+<![CDATA[✅ User registration completed successfully!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="web\valid-login.spec.ts" timestamp="2026-10-14T05:51:44.453Z" hostname="chromium" tests="1" failures="0" skipped="0" time="12.192" errors="0">
+<testcase name="Valid login test @master @sanity @regression @web" classname="web\valid-login.spec.ts" time="12.192">
+<system-out>
+<![CDATA[✅ Valid login completed successfully!
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

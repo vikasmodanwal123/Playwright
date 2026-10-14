@@ -1,0 +1,12 @@
+Error checking account created page: Error: expect(locator).toBeVisible() failed
+
+Locator: getByRole('heading', { name: 'Your Account Has Been Created!' })
+Expected: visible
+Timeout: 5000ms
+Error: element(s) not found
+
+Call log:
+  - Expect "toBeVisible" getByRole('heading', { name: 'Your Account Has Been Created!' }) with timeout 5000ms
+  - waiting for getByRole('heading', { name: 'Your Account Has Been Created!' })
+
+✅ Valid login (success) verified!
