@@ -32,5 +32,5 @@ test('Product search test @master @sanity @regression @web', async ({ homePage, 
         }
     });
 
-    // console.log('✅ Product search completed successfully!');
+     console.log('✅ Product search completed successfully!');
 });
